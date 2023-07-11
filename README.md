@@ -1,5 +1,4 @@
-### Приветствую! <br> меня зовут Ефим, это мой профиль Github
-
+### Приветствую! <br> меня зовут Ефим
 <!--
 **EphimSh/EphimSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
