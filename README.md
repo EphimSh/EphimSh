@@ -7,6 +7,7 @@
 <img width="6%" title="IntelliJ IDEA" src="logos/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="logos/Java.svg">
 <img width="6%" title="Selenide" src="logos/Selenide.svg">
+  <img width="6%" title="Docker" src="logos/Docker.svg">
 <img width="6%" title="Selenoid" src="logos/Selenoid.svg">
 <img width="6%" title="Allure Report" src="logos/Allure_Report.svg">
 <img width="5%" title="Allure TestOps" src="logos/AllureTestOps.svg">
