@@ -16,7 +16,7 @@
 <img width="6%" title="Jenkins" src="logos/Jenkins.svg">
 <img width="6%" title="Telegram" src="logos/Telegram.svg">
 <img width="5%" title="Jira" src="logos/Jira.svg">
-<img width="5%" title="Apache JMeter" src="logos/JMeter.svg">
+<img width="50%" title="Apache JMeter" src="logos/JMeter.svg">
 </p>
 <!--
 **EphimSh/EphimSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
