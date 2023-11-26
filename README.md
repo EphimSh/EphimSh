@@ -1,8 +1,7 @@
-## Приветствую! <br> меня зовут Ефим
-## Я QA Engineer
-## моё резюме на <a href='https://spb.hh.ru/resume/f76bb59fff0821846c0039ed1f795376594775'>hh.ru</a>
+## Hello, my name is Ephim
+## I'm testing things
 
-## Мои инструменты:
+## My tools:
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="logos/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="logos/Java.svg">
