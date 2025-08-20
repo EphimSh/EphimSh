@@ -1,8 +1,6 @@
-## Hello, my name is Ephim
-## I'm AQA Engineer
+## Hello, my name is Ephim and i'm AQA Engineer
 
 ## My tools:
-<p align="center">
 <img width="6%" title="IntelliJ IDEA" src="logos/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="logos/Java.svg">
 <img width="6%" title="Selenide" src="logos/Selenide.svg">
