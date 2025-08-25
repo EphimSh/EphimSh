@@ -22,4 +22,5 @@
   <img width="10%" title="Jenkins" src="logos/Jenkins.svg">
   <img width="10%" title="Telegram" src="logos/Telegram.svg">
   <img width="9%" title="Jira" src="logos/Jira.svg">
+  <img width="9%" title="burpsuite" src="logos/burpsuite-security-software-svgrepo-com.svg"
 </p>
